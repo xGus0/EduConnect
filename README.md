@@ -82,15 +82,12 @@ Não publique senhas, códigos de acesso, documentos, capturas de telas com dado
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="docs/images/conexoes-dark.png" />
-  <img src="docs/images/conexoes-light.png" alt="Linhas e pontos coloridos conectados — identidade visual do EduConnect" width="680" />
-</picture>
+<img src="docs/images/aprender.png" alt="EduConnect — marca oficial e ilustração de aprendizagem" width="800" />
 
 **Aprender · Conectar · Evoluir**
 
 Desenvolvido por **GusDevX**.
 
-<sub>Projeto independente, sem vínculo institucional oficial com o IFCE.<br />A disponibilidade dos arquivos não concede licença de uso ou redistribuição da marca e dos elementos visuais.</sub>
+
 
 </div>
