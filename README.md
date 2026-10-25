@@ -82,7 +82,7 @@ Não publique senhas, códigos de acesso, documentos, capturas de telas com dado
 
 <div align="center">
 
-<img src="docs/images/aprender.png" alt="EduConnect — marca oficial e ilustração de aprendizagem" width="800" />
+<img src="docs/images/fundo-top.png" alt="EduConnect — Aprender, conectar, evoluir" width="800" />
 
 **Aprender · Conectar · Evoluir**
 
