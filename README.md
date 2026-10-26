@@ -74,8 +74,6 @@ Baixe apenas pelos links oficiais desta página. A comparação de hashes ajuda 
 
 Este é o canal público de apresentação e distribuição do **EduConnect**. Aqui você encontra as versões do aplicativo, suas notas e os arquivos de instalação — **não o código-fonte da plataforma**.
 
-Não publique senhas, códigos de acesso, documentos, capturas de telas com dados pessoais ou informações de colegas ao solicitar ajuda.
-
 **Contato:** [contato@gusdev.online](mailto:contato@gusdev.online)
 
 ---
